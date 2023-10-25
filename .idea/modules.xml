@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Aplicações Flask/Curso Alura/.idea/Curso Alura.iml" filepath="$PROJECT_DIR$/../Aplicações Flask/Curso Alura/.idea/Curso Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FormularioFlask.iml" filepath="$PROJECT_DIR$/.idea/FormularioFlask.iml" />
+    </modules>
+  </component>
+</project>
